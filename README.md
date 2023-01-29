@@ -25,8 +25,8 @@ Add coding to the input value.
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Sriram S
+#RegisterNumber: 22009336
 def circulate():
     l=eval(input())
     n=int(input())
@@ -35,6 +35,7 @@ def circulate():
 ```
 
 ## Output:
-![output](./Screenshot%20(12).png)
+![out](https://user-images.githubusercontent.com/119094390/215311044-e16515dd-3811-4467-9989-990b069eaaea.png)
 ## Result:
+
 thus circulating the values of N variables using python program successfully executed
